@@ -8,4 +8,5 @@ The data comes directly from the Chester County Health Department.  Current info
 
 ## Files
 total_confirmed.csv - Daily cumulative confirmed cases by municipality
+
 total_deaths.csv - Daily cumulative number of deaths by municipality
