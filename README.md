@@ -1,6 +1,6 @@
 # chester-county-covid-data
 
-Compilation of total confirmed cases and total number of deaths by municipality in Chester County, CA.
+Compilation of total confirmed cases and total number of deaths by municipality in Chester County, PA.
 
 ## About the data
 
